@@ -5,11 +5,11 @@
 }
 @font-face {
   font-family: "plain light";
-  src: url(/fonts/plain-light-webfont.ttf);
+  src: url("./fonts/plain-light-webfont.ttf");
 }
 @font-face {
   font-family: "silk serif";
-  src: url(/fonts/silkserif-lightitalic-webfont.ttf);
+  src: url("./fonts/silkserif-lightitalic-webfont.ttf");
 }
 html,
 body {
